@@ -23,7 +23,7 @@ def parse_args(args):
     """Parse command line parameters
 
     Args:
-      args (List[str]): command line parameters as list of strings
+      args (List[str]): command line parameters as a list of strings
           (for example  ``["--help"]``).
 
     Returns:
